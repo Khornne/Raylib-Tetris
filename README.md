@@ -23,7 +23,8 @@ For Fedora Based Distributions
 sudo dnf install cmake 
 ```
 
-For any other linux distributions look up your respective way of installation
+For any other linux distributions look up your respective way of installation. 
+
 For Windows download and install CMAKE from their [website](https://cmake.org/download/)
 - - - 
 Once CMAKE is installed navigate into the build folder and type ***cmake ..*** once it is done type ***make*** 
