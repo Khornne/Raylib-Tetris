@@ -49,5 +49,5 @@ Once you end up hitting the ceiling you will GAME OVER, press any key afterwards
 - [] Add Comments
 
 ### REFERENCES
-I followed a long using ![Programming With Nick's](https://www.youtube.com/watch?v=wVYKG_ch4yM&t=1721s) Tetris tutorial
+I followed along using ![Programming With Nick's](https://www.youtube.com/watch?v=wVYKG_ch4yM&t=1721s) Tetris tutorial
 
