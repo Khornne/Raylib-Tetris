@@ -36,8 +36,11 @@ Alternatively you can run and make it in your respective IDE.
 
 ### GAMEPLAY
 UP ARROW KEY - Rotates shape
+
 DOWN ARROW KEY - Moves Shape Down
+
 LEFT ARROW KEY - Moves Shape Left
+
 RIGHT ARROW KEY - Moves Shape Right
 
 Clearing one line = 100 pts 
