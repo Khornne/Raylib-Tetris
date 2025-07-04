@@ -38,9 +38,11 @@ DOWN ARROW KEY - Moves Shape Down
 LEFT ARROW KEY - Moves Shape Left
 RIGHT ARROW KEY - Moves Shape Right
 
-Clearing one = 100 pts, 
-Clearing two = 300 pts, 
-Clearing three = 500 pts, 
+Clearing one line = 100 pts 
+
+Clearing two lines = 300 pts
+
+Clearing three lines = 500 pts 
 
 Once you end up hitting the ceiling you will GAME OVER, press any key afterwards to restart.
 
