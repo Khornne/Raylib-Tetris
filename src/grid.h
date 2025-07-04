@@ -12,7 +12,6 @@ public:
   bool IsCellEmpty(int row, int column);
   int ClearFullRows();
   int grid[20][10];
-  bool gameOver;
 
 private:
   bool IsRowFull(int row);
