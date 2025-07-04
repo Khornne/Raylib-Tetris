@@ -43,6 +43,7 @@ LEFT ARROW KEY - Moves Shape Left
 
 RIGHT ARROW KEY - Moves Shape Right
 
+
 Clearing one line = 100 pts 
 
 Clearing two lines = 300 pts
